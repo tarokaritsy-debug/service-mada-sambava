@@ -1,2 +1,2 @@
 # service-mada-sambava
-maro ny tool misy 
+maro ny tool misy
